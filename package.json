@@ -1,0 +1,32 @@
+{
+  "name": "jaibacss",
+  "version": "1.0.0",
+  "description": "Framework CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fenyr-sh/jaibacss.git"
+  },
+  "keywords": [
+    "framework",
+    "front-end",
+    "responsive",
+    "web",
+    "css",
+    "sass",
+    "scss",
+    "mobile-first"
+  ],
+  "author": "fenyr-sh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fenyr-sh/jaibacss/issues"
+  },
+  "homepage": "https://github.com/fenyr-sh/jaibacss#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
